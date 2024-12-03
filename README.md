@@ -59,6 +59,7 @@ Enter your choice:
 - Enhance the user interface with a graphical or web-based front end.
 - Expand database functionality with advanced queries and analytics.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Screenshots
+<div align="center">
+  <img src="Screenshot%202024-12-03%20153907.jpg" alt="Bank Account Manager with SQLite Integration Screenshot">
+</div>
